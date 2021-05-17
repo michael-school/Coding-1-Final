@@ -10,3 +10,7 @@ body {
     margin-right: auto;
     margin-top: 5em;
 }
+
+.carousel img{
+    height: 42rem;
+}
