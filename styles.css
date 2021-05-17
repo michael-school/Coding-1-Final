@@ -9,6 +9,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     margin-top: 5em;
+    max-width: 600px;
 }
 
 .carousel img{
