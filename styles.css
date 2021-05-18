@@ -2,6 +2,10 @@
 body {
     background-color: slategray;
 }
+
+a{
+    color:inherit;
+}
 .logo {
     width: 100px;
 }
@@ -17,4 +21,8 @@ img{
 }
 .carousel img{
     height: 42rem;
+}
+
+footer div.logo{
+    text-align: right;
 }
